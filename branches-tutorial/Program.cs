@@ -53,6 +53,7 @@ namespace BranchesAndLoops
             }
             Console.WriteLine($"The sum is: {sum}");
         }
+        
         static void Main(string[] args)
         {
             // ExploreIf();
