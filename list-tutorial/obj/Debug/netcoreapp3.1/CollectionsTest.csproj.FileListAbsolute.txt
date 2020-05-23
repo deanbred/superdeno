@@ -1,0 +1,13 @@
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\bin\Debug\netcoreapp3.1\CollectionsTest.exe
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\bin\Debug\netcoreapp3.1\CollectionsTest.deps.json
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\bin\Debug\netcoreapp3.1\CollectionsTest.runtimeconfig.json
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\bin\Debug\netcoreapp3.1\CollectionsTest.runtimeconfig.dev.json
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\bin\Debug\netcoreapp3.1\CollectionsTest.dll
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\bin\Debug\netcoreapp3.1\CollectionsTest.pdb
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.csprojAssemblyReference.cache
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.AssemblyInfoInputs.cache
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.AssemblyInfo.cs
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.csproj.CoreCompileInputs.cache
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.dll
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.pdb
+C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\CollectionsTest.genruntimeconfig.cache

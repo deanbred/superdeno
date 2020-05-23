@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "icaMbhq2JELD3mz2qOtTmGYNeIzEh0YeCcL6kWaFM1GrfVsHX2WoPiLtPS6gcfcWWWPiCLX8DIea5NP+8HZFtg==",
+  "dgSpecHash": "I8DIzFHARZLjSgo+/xMeZcfZltHU5m0C+SxBuw7mhph4rD9DC8IDm6mA2oOsdZKWEJKMU4CsUJstPcO7Clegwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\list-tutorial.csproj",
+  "projectFilePath": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\CollectionsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dbred\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

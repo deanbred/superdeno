@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\list-tutorial.csproj",
-      "projectName": "list-tutorial",
-      "projectPath": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\list-tutorial.csproj",
+      "projectUniqueName": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\CollectionsTest.csproj",
+      "projectName": "CollectionsTest",
+      "projectPath": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\CollectionsTest.csproj",
       "packagesPath": "C:\\Users\\dbred\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\list-tutorial\\obj\\",
       "projectStyle": "PackageReference",

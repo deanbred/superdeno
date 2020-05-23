@@ -1,4 +1,0 @@
-C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.csprojAssemblyReference.cache
-C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.AssemblyInfoInputs.cache
-C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.AssemblyInfo.cs
-C:\Users\dbred\Documents\GitHub\superdeno\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.csproj.CoreCompileInputs.cache
