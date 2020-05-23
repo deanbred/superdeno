@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9mywLf7pUU29cuE6s/MLbBwJ1qw4YaTjf9QZtJZ6z99WBGOCo14wgfkOQtzDcRaU+tTbdiIe579Lma7Ok3/GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dbred\\Documents\\GitHub\\superdeno\\branches-tutorial\\BranchesAndLoops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dbred\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
